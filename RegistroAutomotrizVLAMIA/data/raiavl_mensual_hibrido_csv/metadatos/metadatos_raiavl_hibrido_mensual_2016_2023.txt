@@ -1,0 +1,29 @@
+﻿
+identifier: 
+
+title: Registro Administrativo de la Industria Automotriz de Vehículos Ligeros. Venta de vehículos híbridos y eléctricos 2016-2023. Información mensual, cifras al mes de Febrero.
+
+description: El Registro Administrativo de la Industria Automotriz de Vehículos Ligeros (RAIAVL), es un proyecto que presenta información de la venta de vehículos ligeros en el territorio nacional, identificando tipo y segmento del vehículo. Para ello las empresas adscritas a la Asociación Mexicana de la Industria Automotriz (AMIA) entrega sus datos de manera mensual. 
+Cobertura geográfica: Entidad Federativa.
+
+modified: 2023-05-09
+
+publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+mbox: atencion.usuarios@inegi.org.mx
+
+license: https://www.inegi.org.mx/inegi/terminos.html
+
+dataDictionary: 
+
+keyword: "automóviles", "venta", "eléctricos", "híbridos plugin", "híbridos"
+
+contactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+temporal: 2016-01-01-2023-02-28
+
+spatial: Estados Unidos Mexicanos
+
+accrualPeriodicity: Mensualmente
+
+distribution: https://www.inegi.org.mx/datosprimarios/iavl/

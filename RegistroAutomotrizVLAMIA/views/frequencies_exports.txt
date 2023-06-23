@@ -1,0 +1,183 @@
+project_name
+
+-----------------------------------
+
+frequencies
+
+Registro Administrativo de la Industria Automotriz de Vehículos Ligeros. Exportación de vehículos    132068
+Name: project_name, dtype: int64
+
+percentages
+
+Registro Administrativo de la Industria Automotriz de Vehículos Ligeros. Exportación de vehículos   1.00
+Name: project_name, dtype: float64
+
+
+coverge
+
+-----------------------------------
+
+frequencies
+
+Nacional    132068
+Name: coverge, dtype: int64
+
+percentages
+
+Nacional   1.00
+Name: coverge, dtype: float64
+
+
+brand
+
+-----------------------------------
+
+frequencies
+
+Nissan                     34827
+General Motors             26458
+Volkswagen                 20460
+Mazda                      17270
+Chrysler                   12772
+KIA                         8406
+Ford Motor                  2759
+Mercedes Benz_Prod_Expo     2073
+Fiat                        1822
+Audi                        1737
+BMW Group                   1546
+Honda                       1430
+Toyota                       458
+Renault                       50
+Name: brand, dtype: int64
+
+percentages
+
+Nissan                    0.26
+General Motors            0.20
+Volkswagen                0.15
+Mazda                     0.13
+Chrysler                  0.10
+KIA                       0.06
+Ford Motor                0.02
+Mercedes Benz_Prod_Expo   0.02
+Fiat                      0.01
+Audi                      0.01
+BMW Group                 0.01
+Honda                     0.01
+Toyota                    0.00
+Renault                   0.00
+Name: brand, dtype: float64
+
+
+model
+
+-----------------------------------
+
+frequencies
+
+Beetle                                  5116
+Sentra                                  4585
+RAM 2500-                               4421
+Kicks                                   4299
+Mazda 3 Sedán-                          4096
+                                        ... 
+Kodiak Chassis Cab Class 6 PBV23,900       4
+Aztek SUV                                  4
+Yukon                                      2
+Fiesta Ikon                                1
+Cavalier 2 Ptas                            1
+Name: model, Length: 118, dtype: int64
+
+percentages
+
+Beetle                                 0.04
+Sentra                                 0.03
+RAM 2500-                              0.03
+Kicks                                  0.03
+Mazda 3 Sedán-                         0.03
+                                       ... 
+Kodiak Chassis Cab Class 6 PBV23,900   0.00
+Aztek SUV                              0.00
+Yukon                                  0.00
+Fiesta Ikon                            0.00
+Cavalier 2 Ptas                        0.00
+Name: model, Length: 118, dtype: float64
+
+
+type
+
+-----------------------------------
+
+frequencies
+
+Automóviles         77520
+Camiones ligeros    54548
+Name: type, dtype: int64
+
+percentages
+
+Automóviles        0.59
+Camiones ligeros   0.41
+Name: type, dtype: float64
+
+
+segment
+
+-----------------------------------
+
+frequencies
+
+Compactos       47725
+SUV's           31617
+Subcompactos    27500
+Pick Ups        21792
+De Lujo          2295
+Minivans         1139
+Name: segment, dtype: int64
+
+percentages
+
+Compactos      0.36
+SUV's          0.24
+Subcompactos   0.21
+Pick Ups       0.17
+De Lujo        0.02
+Minivans       0.01
+Name: segment, dtype: float64
+
+
+country
+
+-----------------------------------
+
+frequencies
+
+Estados Unidos              8279
+Canadá                      6095
+Colombia                    4779
+Chile                       4447
+Panamá                      4217
+                            ... 
+Tadjikistán                    1
+Kyrgyzstán                     1
+Turkmenistán                   1
+Uzbekistán                     1
+República Centroafricana       1
+Name: country, Length: 162, dtype: int64
+
+percentages
+
+Estados Unidos             0.06
+Canadá                     0.05
+Colombia                   0.04
+Chile                      0.03
+Panamá                     0.03
+                           ... 
+Tadjikistán                0.00
+Kyrgyzstán                 0.00
+Turkmenistán               0.00
+Uzbekistán                 0.00
+República Centroafricana   0.00
+Name: country, Length: 162, dtype: float64
+
+

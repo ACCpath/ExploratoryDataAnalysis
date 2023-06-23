@@ -1,0 +1,152 @@
+project_name
+
+-----------------------------------
+
+frequencies
+
+Registro administrativo de la industria automotriz de vehículos ligeros. Producción de vehículos     13757
+Name: project_name, dtype: int64
+
+percentages
+
+Registro administrativo de la industria automotriz de vehículos ligeros. Producción de vehículos    1.00
+Name: project_name, dtype: float64
+
+
+coverge
+
+-----------------------------------
+
+frequencies
+
+Nacional    13757
+Name: coverge, dtype: int64
+
+percentages
+
+Nacional   1.00
+Name: coverge, dtype: float64
+
+
+brand
+
+-----------------------------------
+
+frequencies
+
+General Motors             4038
+Nissan                     3068
+Chrysler                   1378
+Volkswagen                 1306
+Ford Motor                 1252
+JAC                         460
+KIA                         451
+Mazda                       438
+Honda                       436
+Toyota                      289
+Mercedes Benz_Prod_Expo     175
+Renault                     167
+Fiat                        147
+Audi                         77
+BMW Group                    75
+Name: brand, dtype: int64
+
+percentages
+
+General Motors            0.29
+Nissan                    0.22
+Chrysler                  0.10
+Volkswagen                0.09
+Ford Motor                0.09
+JAC                       0.03
+KIA                       0.03
+Mazda                     0.03
+Honda                     0.03
+Toyota                    0.02
+Mercedes Benz_Prod_Expo   0.01
+Renault                   0.01
+Fiat                      0.01
+Audi                      0.01
+BMW Group                 0.01
+Name: brand, dtype: float64
+
+
+model
+
+-----------------------------------
+
+frequencies
+
+RAM 1500-                      220
+Silverado 3500 Chassis Cab     219
+RAM 4000                       218
+Tacoma-                        207
+RAM 2500-                      201
+                              ... 
+Chevrolet Express Cargo Van      1
+Spark                            1
+Spark EV 5 Ptas.                 1
+Spark NG                         1
+Yukon Suv                        1
+Name: model, Length: 218, dtype: int64
+
+percentages
+
+RAM 1500-                     0.02
+Silverado 3500 Chassis Cab    0.02
+RAM 4000                      0.02
+Tacoma-                       0.02
+RAM 2500-                     0.01
+                              ... 
+Chevrolet Express Cargo Van   0.00
+Spark                         0.00
+Spark EV 5 Ptas.              0.00
+Spark NG                      0.00
+Yukon Suv                     0.00
+Name: model, Length: 218, dtype: float64
+
+
+type
+
+-----------------------------------
+
+frequencies
+
+Camiones ligeros    7473
+Automóviles         6284
+Name: type, dtype: int64
+
+percentages
+
+Camiones ligeros   0.54
+Automóviles        0.46
+Name: type, dtype: float64
+
+
+segment
+
+-----------------------------------
+
+frequencies
+
+Pick Ups        4794
+Compactos       3393
+SUV's           2372
+Subcompactos    2313
+De Lujo          576
+Minivans         307
+Deportivos         2
+Name: segment, dtype: int64
+
+percentages
+
+Pick Ups       0.35
+Compactos      0.25
+SUV's          0.17
+Subcompactos   0.17
+De Lujo        0.04
+Minivans       0.02
+Deportivos     0.00
+Name: segment, dtype: float64
+
+

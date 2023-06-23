@@ -1,0 +1,109 @@
+project_name
+
+-----------------------------------
+
+frequencies
+
+Registro Administrativo de la Industria Automotriz de Vehículos Ligeros. Venta de vehículos híbridos y eléctricos    2800
+Name: project_name, dtype: int64
+
+percentages
+
+Registro Administrativo de la Industria Automotriz de Vehículos Ligeros. Venta de vehículos híbridos y eléctricos   1.00
+Name: project_name, dtype: float64
+
+
+coverage
+
+-----------------------------------
+
+frequencies
+
+Nacional    2800
+Name: coverage, dtype: int64
+
+percentages
+
+Nacional   1.00
+Name: coverage, dtype: float64
+
+
+statedesc
+
+-----------------------------------
+
+frequencies
+
+Aguascalientes                     86
+Morelos                            86
+Yucatán                            86
+Veracruz de Ignacio de la Llave    86
+Tamaulipas                         86
+Tabasco                            86
+Sonora                             86
+Sinaloa                            86
+San Luis Potosí                    86
+Quintana Roo                       86
+Querétaro                          86
+Puebla                             86
+Oaxaca                             86
+Nuevo León                         86
+Baja California                    86
+México                             86
+Michoacán de Ocampo                86
+Durango                            86
+Baja California Sur                86
+Chiapas                            86
+Chihuahua                          86
+Ciudad de México                   86
+Coahuila de Zaragoza               86
+Colima                             86
+Guanajuato                         86
+Hidalgo                            86
+Jalisco                            86
+Tlaxcala                           84
+Zacatecas                          84
+Guerrero                           83
+Campeche                           83
+Nayarit                            80
+No especificado                    64
+Name: statedesc, dtype: int64
+
+percentages
+
+Aguascalientes                    0.03
+Morelos                           0.03
+Yucatán                           0.03
+Veracruz de Ignacio de la Llave   0.03
+Tamaulipas                        0.03
+Tabasco                           0.03
+Sonora                            0.03
+Sinaloa                           0.03
+San Luis Potosí                   0.03
+Quintana Roo                      0.03
+Querétaro                         0.03
+Puebla                            0.03
+Oaxaca                            0.03
+Nuevo León                        0.03
+Baja California                   0.03
+México                            0.03
+Michoacán de Ocampo               0.03
+Durango                           0.03
+Baja California Sur               0.03
+Chiapas                           0.03
+Chihuahua                         0.03
+Ciudad de México                  0.03
+Coahuila de Zaragoza              0.03
+Colima                            0.03
+Guanajuato                        0.03
+Hidalgo                           0.03
+Jalisco                           0.03
+Tlaxcala                          0.03
+Zacatecas                         0.03
+Guerrero                          0.03
+Campeche                          0.03
+Nayarit                           0.03
+No especificado                   0.02
+Name: statedesc, dtype: float64
+
+

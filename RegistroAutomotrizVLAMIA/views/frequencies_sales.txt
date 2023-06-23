@@ -1,0 +1,292 @@
+project_name
+
+-----------------------------------
+
+frequencies
+
+Registro Administrativo de la Industria Automotriz de Vehículos Ligeros. Venta de vehículos     84236
+Name: project_name, dtype: int64
+
+percentages
+
+Registro Administrativo de la Industria Automotriz de Vehículos Ligeros. Venta de vehículos    1.00
+Name: project_name, dtype: float64
+
+
+coverge
+
+-----------------------------------
+
+frequencies
+
+Nacional    84236
+Name: coverge, dtype: int64
+
+percentages
+
+Nacional   1.00
+Name: coverge, dtype: float64
+
+
+brand
+
+-----------------------------------
+
+frequencies
+
+General Motors    12632
+Chrysler           6182
+Ford Motor         6152
+Nissan             6129
+Volkswagen         5054
+Mercedes Benz      4636
+BMW                4162
+Toyota             3978
+Audi               3501
+Peugeot            2602
+Honda              2513
+Renault            2220
+Mazda              2010
+Volvo              1801
+Mitsubishi         1692
+Fiat               1643
+SEAT               1435
+Suzuki             1379
+Subaru             1324
+Lincoln            1304
+Porsche            1251
+Hyundai            1224
+Mini               1213
+Land Rover         1145
+Acura              1128
+Infiniti            999
+KIA                 926
+Jaguar              847
+JAC                 719
+MOTORNATION         477
+Isuzu               444
+Alfa Romeo          437
+Smart               406
+Bentley             402
+MG Motor            129
+Lexus                73
+Chirey               34
+MG ROVER             33
+Name: brand, dtype: int64
+
+percentages
+
+General Motors   0.15
+Chrysler         0.07
+Ford Motor       0.07
+Nissan           0.07
+Volkswagen       0.06
+Mercedes Benz    0.06
+BMW              0.05
+Toyota           0.05
+Audi             0.04
+Peugeot          0.03
+Honda            0.03
+Renault          0.03
+Mazda            0.02
+Volvo            0.02
+Mitsubishi       0.02
+Fiat             0.02
+SEAT             0.02
+Suzuki           0.02
+Subaru           0.02
+Lincoln          0.02
+Porsche          0.01
+Hyundai          0.01
+Mini             0.01
+Land Rover       0.01
+Acura            0.01
+Infiniti         0.01
+KIA              0.01
+Jaguar           0.01
+JAC              0.01
+MOTORNATION      0.01
+Isuzu            0.01
+Alfa Romeo       0.01
+Smart            0.00
+Bentley          0.00
+MG Motor         0.00
+Lexus            0.00
+Chirey           0.00
+MG ROVER         0.00
+Name: brand, dtype: float64
+
+
+model
+
+-----------------------------------
+
+frequencies
+
+Mazda 3 Hatchback          307
+Escalade ESV SUV AWD       279
+Partner                    274
+Outlander                  224
+Odyssey                    220
+                          ... 
+TONALE                       1
+Continental Supersports      1
+Continental Gtc Speed        1
+Otros Smart                  1
+X1 Sdrive20i                 1
+Name: model, Length: 1145, dtype: int64
+
+percentages
+
+Mazda 3 Hatchback         0.00
+Escalade ESV SUV AWD      0.00
+Partner                   0.00
+Outlander                 0.00
+Odyssey                   0.00
+                          ... 
+TONALE                    0.00
+Continental Supersports   0.00
+Continental Gtc Speed     0.00
+Otros Smart               0.00
+X1 Sdrive20i              0.00
+Name: model, Length: 1145, dtype: float64
+
+
+type
+
+-----------------------------------
+
+frequencies
+
+Automóviles         44553
+Camiones ligeros    39683
+Name: type, dtype: int64
+
+percentages
+
+Automóviles        0.53
+Camiones ligeros   0.47
+Name: type, dtype: float64
+
+
+segment
+
+-----------------------------------
+
+frequencies
+
+SUV's           22872
+De Lujo         19349
+Pick Ups        13012
+Compactos       11010
+Subcompactos     9844
+Deportivos       4350
+Minivans         3799
+Name: segment, dtype: int64
+
+percentages
+
+SUV's          0.27
+De Lujo        0.23
+Pick Ups       0.15
+Compactos      0.13
+Subcompactos   0.12
+Deportivos     0.05
+Minivans       0.05
+Name: segment, dtype: float64
+
+
+origin
+
+-----------------------------------
+
+frequencies
+
+IMPORTADO    71595
+NACIONAL     12641
+Name: origin, dtype: int64
+
+percentages
+
+IMPORTADO   0.85
+NACIONAL    0.15
+Name: origin, dtype: float64
+
+
+origin_country
+
+-----------------------------------
+
+frequencies
+
+Estados Unidos     19655
+México             12641
+Alemania           11570
+Japón               9547
+Brasil              4382
+Reino Unido         4087
+Canadá              3528
+España              2626
+Corea del Sur       2392
+Francia             2366
+Tailandia           1393
+India               1237
+Italia              1136
+Bélgica             1082
+Suecia               964
+Argentina            962
+China                871
+Hungría              732
+Eslovaquia           605
+Austria              477
+Colombia             436
+Indonesia            289
+Polonia              275
+República Checa      239
+Turquía              234
+Países Bajos         161
+Portugal              98
+No Especificado       95
+Serbia                71
+Chile                 52
+Taiwán                32
+Finlandia              1
+Name: origin_country, dtype: int64
+
+percentages
+
+Estados Unidos    0.23
+México            0.15
+Alemania          0.14
+Japón             0.11
+Brasil            0.05
+Reino Unido       0.05
+Canadá            0.04
+España            0.03
+Corea del Sur     0.03
+Francia           0.03
+Tailandia         0.02
+India             0.01
+Italia            0.01
+Bélgica           0.01
+Suecia            0.01
+Argentina         0.01
+China             0.01
+Hungría           0.01
+Eslovaquia        0.01
+Austria           0.01
+Colombia          0.01
+Indonesia         0.00
+Polonia           0.00
+República Checa   0.00
+Turquía           0.00
+Países Bajos      0.00
+Portugal          0.00
+No Especificado   0.00
+Serbia            0.00
+Chile             0.00
+Taiwán            0.00
+Finlandia         0.00
+Name: origin_country, dtype: float64
+
+
