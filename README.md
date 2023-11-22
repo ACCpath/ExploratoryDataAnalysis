@@ -1,6 +1,6 @@
 # ExploratoryDataAnalysis
 Descriptive analysis to understand properties of the data, inspect qualitative features, discover new patterns.
-This repository contains the nexts analysis:
+This repository contains the next analysis:
 
 1. Administrative registration of the automotive industry of light vehicles:
 
