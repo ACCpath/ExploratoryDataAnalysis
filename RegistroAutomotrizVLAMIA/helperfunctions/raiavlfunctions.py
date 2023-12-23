@@ -48,7 +48,7 @@ def check_merge(dfleft, dfright, mergebyleft, mergebyright):
     print(pd.crosstab(dfboth.inleft, dfboth.inright))
     print(dfboth.loc[(dfboth.inleft=='N') | (dfboth.inright=='N')].head(20))
 
-def make_frequencies(df,outfile):
+def make_frequencies(df, outfile):
     """Return a file with the calculate frequencies from all categorical variables.
     """
     freqout = open(outfile, 'w', encoding='utf-8')
@@ -74,7 +74,7 @@ def get_outliers(dfinput, iqrvar, othervars):
        interquartile range(the distance between the first and third quartile) below
        the first quartile or above the third quartile.
     """
-    dfinput = dfinput[othervars + [iqrvar]]
+    dfinput = dfinput.loc[:,othervars + [iqrvar]]
     dfinput.rename(columns={iqrvar:'quantity'}, inplace=True)
     thirdq = dfinput['quantity'].quantile(0.75)
     firstq = dfinput['quantity'].quantile(0.25)
@@ -101,7 +101,7 @@ def testnorm(var, df):
     stat, p = scistat.shapiro(df[var])
     return p
 
-def make_lineplot(data, valuex, valuey, ax, xlima, xlimb, hue, xlabel='',ylabel='', fmillion=True):
+def make_lineplot(data, valuex, valuey, ax, xlima, xlimb, hue, xlabel='', ylabel='', fmillion=True):
     """Make a lineplot at the marked ax.
     """
     f = sns.lineplot(data=data, x=valuex, y=valuey, ax=ax, hue=hue)
